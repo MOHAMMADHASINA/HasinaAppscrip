@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "appscrip": "file:",
+    "next": "14.2.14",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.14"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "eslint": "^8",
     "eslint-config-next": "14.2.14"
-  }
+  },
+  "description": "This is a fully responsive E-Commerce products page built using **Next.js13**. The page allows users to browse products fetched from an API, filter them by categories, and sort them based on price and other criteria. The page is designed to provide a smooth user experience with essential filtering and sorting features.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
