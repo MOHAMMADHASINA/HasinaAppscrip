@@ -26,6 +26,4 @@ This is a fully responsive E-Commerce products page built using **Next.js13**. T
 
 - **Filter Products by Categories**: Users can easily filter products by selecting the desired categories such as `Men`, `Women`,`Jewelery` and `Electronics` using checkboxes.
 
-- **Price Sorting**: Users can sort the products by price from **High to Low** or **Low to High** to help them quickly find the products within their price range.
-
----
+- **Price Sorting**: Users can sort the products by price from **High to Low** or **Low to High** to help them quickly find the products within their price range
